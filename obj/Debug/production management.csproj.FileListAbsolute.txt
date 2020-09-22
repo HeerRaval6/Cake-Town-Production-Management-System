@@ -1,0 +1,6 @@
+D:\website\production management\production management\bin\production management.dll.config
+D:\website\production management\production management\bin\production management.dll
+D:\website\production management\production management\bin\production management.pdb
+D:\website\production management\production management\obj\Debug\production management.csprojResolveAssemblyReference.cache
+D:\website\production management\production management\obj\Debug\production management.dll
+D:\website\production management\production management\obj\Debug\production management.pdb
